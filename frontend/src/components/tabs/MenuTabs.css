@@ -1,0 +1,7 @@
+.ant-tabs-centered {
+  width: 100%;
+}
+
+.ant-tabs-tab + .ant-tabs-tab {
+  margin: 0 0 0 55px;
+}

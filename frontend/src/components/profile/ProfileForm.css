@@ -1,0 +1,33 @@
+.justifyLeft {
+  justify-content: left !important;
+}
+
+.formField .ant-space-item,
+.ant-space.ant-space-horizontal.ant-space-align-center.formField {
+  width: 100%;
+  /* margin-right: 13px; */
+}
+.form-group {
+  margin-bottom: 10px;
+}
+
+form {
+  margin-top: 10%;
+}
+
+.form-group input {
+  border-radius: 10px;
+}
+
+form label {
+  font-weight: bold;
+}
+
+.seperator {
+  margin-top: 4px;
+}
+
+button.ant-btn.ant-btn-primary.ant-btn-lg {
+  border-radius: 10px;
+  width: 100%;
+}

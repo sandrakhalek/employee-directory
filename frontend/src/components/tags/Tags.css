@@ -1,0 +1,9 @@
+.tags {
+  margin: 10px 0 25px;
+  text-align: center;
+  font-size: large;
+}
+
+.ant-tag-checkable-checked {
+  padding: 10px;
+}

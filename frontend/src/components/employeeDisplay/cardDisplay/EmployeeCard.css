@@ -1,0 +1,18 @@
+.card {
+  width: 85%;
+  margin: auto;
+  border-radius: 10px;
+  border: 0.5px solid gray;
+  margin-bottom: 1%;
+}
+
+.avatar {
+  vertical-align: auto;
+  margin-right: 20px;
+}
+
+.buttonsLayout {
+  justify-content: flex-end !important;
+  margin-top: -2%;
+  padding: 0 5px;
+}
