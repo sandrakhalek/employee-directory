@@ -5,6 +5,7 @@ This web application was developed using the MERN stack. It's an employee direct
 ## Usage
 
 - Clone or download the repository.
+- Configure and run mongoDB.
 - Run `cd backend; npm install` or `cd backend; yarn install` to install all needed dependencies.
 - Run `cd backend; yarn start` or `cd backend; npm start` to start back end development server.
 - Run `cd frontend; yarn start` or `cd frontend; npm start` to start front end development server.
