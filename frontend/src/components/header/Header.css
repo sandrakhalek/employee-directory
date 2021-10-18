@@ -12,6 +12,9 @@
   justify-content: center;
 }
 
+.ant-input-search > .ant-input-group > .ant-input-group-addon:last-child {
+  left: 0px;
+}
 .ant-input-search .ant-input-group .ant-input-affix-wrapper:not(:last-child) {
   border-radius: 10px;
 }
